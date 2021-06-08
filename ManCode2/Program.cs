@@ -11,6 +11,7 @@ namespace ManCode2
         static void Main(string[] args)
         {
             System.Console.WriteLine("Name of Junior Dev {0}", "ManTrinh");
+            System.Console.WriteLine("Name of Junior Dev2 {0}", "NamDang");
         }
     }
 }
